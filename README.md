@@ -42,6 +42,12 @@ Mi objetivo es iniciar mi camino profesional en el desarrollo de software, contr
 ## 🌐 Portafolio
 
 [www.gonzapereyra.tech](https://www.gonzapereyra.tech/)
-Email: gonzalopereyra.1170@gmail.com
+
+---
+
+## 📫 Contacto
+
+**Email:** gonzalopereyra.1170@gmail.com  
+**LinkedIn:** [www.linkedin.com/in/gonzapereyraa](https://www.linkedin.com/in/gonzapereyraa)
 
 ---

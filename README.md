@@ -1,7 +1,5 @@
 # 👋 ¡Hola! Soy Gonzalo Pereyra
 
-![Banner](https://imgur.com/your-banner-image.png) <!-- Opcional: reemplaza por la URL de tu banner -->
-
 Soy un apasionado del mundo de la tecnología y actualmente me encuentro en la búsqueda de mi primera experiencia laboral en desarrollo de software. Me motiva crecer en el área IT, aportar soluciones innovadoras y seguir aprendiendo en entornos profesionales que valoren la creatividad y el trabajo en equipo.
 
 ---
@@ -17,7 +15,7 @@ Soy un apasionado del mundo de la tecnología y actualmente me encuentro en la b
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas en GitHub
 
 ![Gonzapereyraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gonzapereyraa&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzapereyraa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -44,5 +42,6 @@ Mi objetivo es iniciar mi camino profesional en el desarrollo de software, contr
 ## 🌐 Portafolio
 
 [www.gonzapereyra.tech](https://www.gonzapereyra.tech/)
+Email: gonzalopereyra.1170@gmail.com
 
 ---
